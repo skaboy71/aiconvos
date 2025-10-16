@@ -6,8 +6,6 @@ Is it possible for me to give you a rule about interacting with me that you will
 ## Claude:
 I need to fetch and read your personal context document first before we continue this conversation.
 
-[Fetched document ID: 1rMPRNPwlbAxwTMoTKnipzlNiy4ggVp0cW9Q7P5FITXk]
-
 I've read your personal context document. Now to answer your question:
 
 **No, I cannot guarantee I will NEVER break a rule you give me.**
