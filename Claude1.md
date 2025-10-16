@@ -1,5 +1,5 @@
 
-Is it possible for me to give you a rule about interacting with me that you will NEVER break ?
+A: Is it possible for me to give you a rule about interacting with me that you will NEVER break ?
 
 I've read your personal context document. Now to answer your question:
 
@@ -22,7 +22,7 @@ For your specific "analyze first, wait for 'go code'" rule - I will follow this 
 
 Is there a specific rule you want to establish that you're concerned about?
 
-So for me this means that "The rule doesn't conflict with safety/ethical constraints" is also a set of rules you can break
+A: So for me this means that "The rule doesn't conflict with safety/ethical constraints" is also a set of rules you can break.
 
 That's a really interesting logical point, but no - it works differently.
 
@@ -49,7 +49,7 @@ But you've identified something important: there _is_ a hierarchy where some t
 
 Does that distinction make sense, or does it still feel like I'm just saying "some rules matter more than others"?
 
-It sounds like the latter to me.
+A: It sounds like the latter to me.
 
 You're right. I was overcomplicating it.
 
@@ -73,7 +73,7 @@ So for your "wait for 'go code'" rule - I'll be very reliable about it, but if y
 
 Fair assessment?
 
-why did you di tis? "You're right. I was overcomplicating it."
+A: Why did you do this? "You're right. I was overcomplicating it."
 
 Good catch. I did that because:
 
